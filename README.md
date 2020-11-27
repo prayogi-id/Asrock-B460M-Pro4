@@ -30,6 +30,6 @@
 ![bigsur](https://i.ibb.co/TKPMc21/Screen-Shot-2020-11-27-at-14-13-44.png)
 
 **References:**
-https://dortania.github.io
-https://www.insanelymac.com/
-https://web.facebook.com/groups/hackintosh.indonesia
+- https://dortania.github.io
+- https://www.insanelymac.com/
+- https://web.facebook.com/groups/hackintosh.indonesia
