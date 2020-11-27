@@ -31,3 +31,5 @@
 
 **References:**
 https://dortania.github.io
+https://www.insanelymac.com/
+https://web.facebook.com/groups/hackintosh.indonesia
