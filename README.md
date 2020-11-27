@@ -7,6 +7,7 @@
 - dGPU: Nvidia Geforce GT635 
 - SSD: Adata SU650 2,5"(MacOS) + Micron 2200 M.2 NVMe 256GB(Windows)
 - Audio: Realtek ALC1200
+- LAN : Intel® I219V
 - WLAN: Atheros AR9285
 - OpenCore Version: 0.6.3
 - SMBIOS: iMacPro1,1
@@ -27,3 +28,6 @@
 ![bigsur](https://i.ibb.co/YXwdb63/Screen-Shot-2020-11-21-at-20-49-42.png)
 ![bigsur](https://i.ibb.co/M6cR4QD/Screen-Shot-2020-11-27-at-14-14-10.png)
 ![bigsur](https://i.ibb.co/TKPMc21/Screen-Shot-2020-11-27-at-14-13-44.png)
+
+**References:**
+https://dortania.github.io
