@@ -8,8 +8,7 @@
 - SSD: Adata SU650 2,5"(MacOS) + Micron 2200 M.2 NVMe 256GB(Windows)
 - Audio: Realtek ALC1200
 - LAN : Intel® I219V
-- WLAN: Atheros AR9285
-- OpenCore Version: 0.6.3
+- OpenCore Version: 0.6.5
 - SMBIOS: iMacPro1,1
 
 **What's working**
@@ -18,7 +17,6 @@
 - Nvidia Geforce GT635
 - Audio
 - Ethernet
-- Wifi
 - All USB Port
 
 **What's not working**
